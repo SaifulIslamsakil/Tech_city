@@ -7,4 +7,4 @@ This project is an electronic order  system web application. To create this web 
 1. user login and register,
 2. The user chooses any brand,
 3. user purchased any product,
-4. The user sees brand was products
+4. The user sees the brand as products
