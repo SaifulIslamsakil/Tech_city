@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "Brand_name" : "Apple",
+        "Brand_img" : "https://i.ibb.co/MpQ30gB/istockphoto-1177603655-612x612.jpg"
+    },
+    {
+        "id" : "2",
+        "Brand_name" : "Samsung",
+        "Brand_img" : "https://i.ibb.co/KKTYZrf/the-history-behind-the-samsung-logo-1.jpg"
+    },
+    {
+        "id" : "3",
+        "Brand_name" : "Xiaomi",
+        "Brand_img" : "https://i.ibb.co/cknCxLB/desktop-wallpaper-xiaomi-3d-logo-gray-brickwall-creative-brands-xiaomi-logo-3d-art-xiaomi.jpg"
+    },
+    {
+        "id" : "4",
+        "Brand_name" : "Oppo",
+        "Brand_img" : "https://i.ibb.co/2YXd79G/june-brazil-photo-illustration-oppo-logo-seen-background-silhouette-woman-holding-mobile-phone-28103.webp"
+    },
+    {
+        "id" : "5",
+        "Brand_name" : "Nokia",
+        "Brand_img" : "https://i.ibb.co/Z8gYBPy/nokia-logo-2023-graphic-design-i-format-webp-width-1440-zl-Kfx-W6d-GQb-I9iyr.webp"
+    },
+    {
+        "id" : "6",
+        "Brand_name" : "Google",
+        "Brand_img" : "https://i.ibb.co/br6QmG0/google-pixel-logo-6.jpg"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "1",
+        "name" : "DroSafe Charger",
+        "prices":"55",
+        "Brand_img" : "https://i.ibb.co/8jkh74j/images-1.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Drou watch ultra",
+        "prices":"44",
+        "Brand_img" : "https://i.ibb.co/52B1Wh8/Apple-Watch-Ultra-Price-in-Bangladesh.webp"
+    },
+    {
+        "id" : "3",
+        "name" : "DroSafe Charger",
+        "prices":"55",
+        "Brand_img" : "https://i.ibb.co/8jkh74j/images-1.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "lPhone 14 pro max",
+        "prices":"236",
+        "Brand_img" : "https://i.ibb.co/9GjMc22/i-Phone-14-Pro-Space-Black-1138.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "lPhone 13 pro max",
+        "prices":"136",
+        "Brand_img" : "https://i.ibb.co/JsPWR27/1638069410.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "UPad Pro black color",
+        "prices":"136",
+        "Brand_img" : "https://i.ibb.co/kg8Dz6c/download-3.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Uphone lightning cable",
+        "prices":"36",
+        "Brand_img" : "https://i.ibb.co/gDjDR63/3d8217a94b21322666bb2de2ebb3d3fa.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Homepod mini 2022",
+        "prices":"76",
+        "Brand_img" : "https://i.ibb.co/yPT8bfQ/images.jpg"
+    }
+   
+]

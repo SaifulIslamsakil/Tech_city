@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "image":"https://i.ibb.co/6s645Zg/960x0.webp",
+        "name":"iphone"
+    },
+    {
+        "id":"2",
+        "image":"https://i.ibb.co/yPT8bfQ/images.jpg",
+        "name":"min speakers"
+    },
+    {
+        "id":"3",
+        "image":"https://i.ibb.co/ykMBmDf/menu-screen-black-tablet-hd-transparent-On2x-A4.png",
+        "name":"Tablet"
+    },
+    {
+        "id":"4",
+        "image":"https://i.ibb.co/p2wDxtQ/headphones-png-27.png",
+        "name":"HadePhone"
+    },
+    {
+        "id":"5",
+        "image":"https://i.ibb.co/sP1W22W/download-1.jpg",
+        "name":"laptop"
+    },
+    {
+        "id":"6",
+        "image":"https://i.ibb.co/pwfW9fz/xiaomi-redmi-airdots-wireless-bluetooth-headset-1000x1000-png-550x550.png",
+        "name":"Accessories"
+    }
+]
